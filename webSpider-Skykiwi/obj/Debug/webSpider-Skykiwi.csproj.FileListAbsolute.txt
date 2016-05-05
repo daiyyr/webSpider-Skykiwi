@@ -1,0 +1,9 @@
+D:\source\webSpider-Skykiwi\webSpider-Skykiwi\bin\Debug\webSpider-Skykiwi.exe.config
+D:\source\webSpider-Skykiwi\webSpider-Skykiwi\bin\Debug\webSpider-Skykiwi.exe
+D:\source\webSpider-Skykiwi\webSpider-Skykiwi\bin\Debug\webSpider-Skykiwi.pdb
+D:\source\webSpider-Skykiwi\webSpider-Skykiwi\obj\Debug\webSpider-Skykiwi.csprojResolveAssemblyReference.cache
+D:\source\webSpider-Skykiwi\webSpider-Skykiwi\obj\Debug\webSpider_Skykiwi.Form1.resources
+D:\source\webSpider-Skykiwi\webSpider-Skykiwi\obj\Debug\webSpider_Skykiwi.Properties.Resources.resources
+D:\source\webSpider-Skykiwi\webSpider-Skykiwi\obj\Debug\webSpider-Skykiwi.csproj.GenerateResource.Cache
+D:\source\webSpider-Skykiwi\webSpider-Skykiwi\obj\Debug\webSpider-Skykiwi.exe
+D:\source\webSpider-Skykiwi\webSpider-Skykiwi\obj\Debug\webSpider-Skykiwi.pdb

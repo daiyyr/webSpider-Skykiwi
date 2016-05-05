@@ -1,0 +1,8 @@
+D:\source\webSpider-Skykiwi\webSpider-Skykiwi\bin\Release\webSpider-Skykiwi.exe.config
+D:\source\webSpider-Skykiwi\webSpider-Skykiwi\bin\Release\webSpider-Skykiwi.exe
+D:\source\webSpider-Skykiwi\webSpider-Skykiwi\bin\Release\webSpider-Skykiwi.pdb
+D:\source\webSpider-Skykiwi\webSpider-Skykiwi\obj\Release\webSpider_Skykiwi.Form1.resources
+D:\source\webSpider-Skykiwi\webSpider-Skykiwi\obj\Release\webSpider_Skykiwi.Properties.Resources.resources
+D:\source\webSpider-Skykiwi\webSpider-Skykiwi\obj\Release\webSpider-Skykiwi.csproj.GenerateResource.Cache
+D:\source\webSpider-Skykiwi\webSpider-Skykiwi\obj\Release\webSpider-Skykiwi.exe
+D:\source\webSpider-Skykiwi\webSpider-Skykiwi\obj\Release\webSpider-Skykiwi.pdb
